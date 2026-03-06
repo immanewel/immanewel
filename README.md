@@ -1,4 +1,4 @@
-# Emmanuel
+# Emmanuel Ng'wandu
 **Senior Full-stack Engineer**  
 Building geospatial & business systems  
 Based in Tanzania 🇹🇿 · Available for remote work 🌍
