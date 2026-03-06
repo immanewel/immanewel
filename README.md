@@ -1,5 +1,5 @@
-# Emmanuel Ng'wandu
-**Senior Full-stack Engineer · 8+ years experience**  
+# Emmanuel
+**Senior Full-stack Engineer**  
 Building geospatial & business systems  
 Based in Tanzania 🇹🇿 · Available for remote work 🌍
 
@@ -46,4 +46,5 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ---
 
 ## Contact
-Open to remote work and collaborations worldwide.
+Open to remote work and collaborations worldwide.  
+📩 [iamhim.emmanuel@gmail.com](mailto:iamhim.emmanuel@gmail.com)
