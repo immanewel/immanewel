@@ -13,6 +13,8 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
 
 ### Full-stack Frameworks
 ![Spring MVC (Thymeleaf)](https://img.shields.io/badge/Spring_MVC_(Thymeleaf)-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -24,6 +26,7 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![GeoServer](https://img.shields.io/badge/GeoServer-0E6A9E?style=flat-square&logo=geoserver&logoColor=white)
+![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
 
 ### Infrastructure
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
