@@ -20,13 +20,14 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ![Spring MVC (Thymeleaf)](https://img.shields.io/badge/Spring_MVC_(Thymeleaf)-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React Router v7](https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
+
 
 ### Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![GeoServer](https://img.shields.io/badge/GeoServer-0E6A9E?style=flat-square&logo=geoserver&logoColor=white)
-![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
 
 ### Infrastructure
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
