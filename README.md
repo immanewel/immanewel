@@ -40,8 +40,7 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immanewel&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=immanewel&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=immanewel&theme=transparent&hide_border=true)
 
 ---
 
