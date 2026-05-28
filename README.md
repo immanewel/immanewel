@@ -7,6 +7,12 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 
 ## Stack
 
+### Full-stack Frameworks
+![Spring MVC (Thymeleaf)](https://img.shields.io/badge/Spring_MVC_(Thymeleaf)-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React Router v7](https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
+
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
@@ -15,13 +21,6 @@ Based in Tanzania 🇹🇿 · Available for remote work 🌍
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-
-### Full-stack Frameworks
-![Spring MVC (Thymeleaf)](https://img.shields.io/badge/Spring_MVC_(Thymeleaf)-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React Router v7](https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
-
 
 ### Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
