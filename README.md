@@ -1,56 +1,29 @@
-# Emmanuel Ng'wandu
-**Senior Full-stack Engineer**  
-Building geospatial & business systems  
-Based in Tanzania 🇹🇿 · Available for remote work 🌍
+# Hi, I'm Emmanuel 👋
+
+Senior full-stack engineer in Tanzania 🇹🇿 with 8+ years building **geospatial and business systems** that people actually use: land registries, field data collection, agricultural operations, retail.
+
+Founder of **Namaki Software Group**. Open to remote work.
+
+**Core stack:** Java · Spring Boot · React · PostgreSQL/PostGIS · GeoServer · Leaflet · React Native
 
 ---
 
-## Stack
+### What I've built
 
-### Full-stack Frameworks
-![Spring MVC (Thymeleaf)](https://img.shields.io/badge/Spring_MVC_(Thymeleaf)-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React Router v7](https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Waku](https://img.shields.io/badge/Waku-FF1E56?style=flat-square&logo=react&logoColor=white)
+- **National-scale platforms:** land administration, insurance regulation and natural gas management
+- **Field data collection:** offline-first geospatial surveys
+- **Voting:** secure polling and elections
+- **Rental management:** properties, tenants and payments
+- **Guard patrol:** checkpoint tracking and patrol monitoring
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-
-### Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-0E6A9E?style=flat-square&logo=geoserver&logoColor=white)
-
-### Infrastructure
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
-
-### Developer Velocity
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+> Most of my work lives in private GitLab repos, client and personal repos. Happy to walk through it on a call.
 
 ---
 
-## Focus
-• Geospatial systems  
-• Business infrastructure  
-• Backend architecture  
-• Practical systems solving real problems
-
----
-
-## GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=immanewel&theme=transparent&hide_border=true)
 
 ---
 
-## Contact
-Open to remote work and collaborations worldwide.  
+### Contact
+
 📩 [iamhim.emmanuel@gmail.com](mailto:iamhim.emmanuel@gmail.com)
