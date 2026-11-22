@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel 👋
 
-Senior full-stack engineer in Tanzania 🇹🇿 with 8+ years building **geospatial and business systems** that people actually use: land registries, field data collection, agricultural operations, retail.
+Senior full-stack engineer in Tanzania 🇹🇿 with 8+ years building **geospatial and business systems**: land registries, field data collection, agricultural operations, retail.
 
 Founder of **Namaki Software Group**. Open to remote work.
 
